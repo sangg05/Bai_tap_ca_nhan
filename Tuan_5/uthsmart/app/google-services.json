@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "284726775711",
+    "project_id": "uthsmart-db23a",
+    "storage_bucket": "uthsmart-db23a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284726775711:android:27c524943ae5314540f7aa",
+        "android_client_info": {
+          "package_name": "com.example.uthsmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284726775711-c17sbuv6sjnl1rrdk1cho0umpe2h1oja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uthsmart",
+            "certificate_hash": "6aef214bbb1e131efbf787131ae78611e4a28d38"
+          }
+        },
+        {
+          "client_id": "284726775711-gd8kkep31mvap4pf5ll660p5q5gfejct.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbAeZOmQdh4-j_TYQ5o0QzXxfNP9Jqc8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284726775711-gd8kkep31mvap4pf5ll660p5q5gfejct.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
